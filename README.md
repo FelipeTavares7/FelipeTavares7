@@ -3,7 +3,8 @@ Bem-vindo ao meu perfil do GitHub! Estou fazendo a transição de Manutenção I
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeTavares7&theme=dark)](https://github.com/FelipeTavares7)
 
-## Análises Github
-[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeTavares7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTavares7&layout=compact&theme=dark&hide_border=true"/> 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeTavares7&show_icons=true&theme=dark&utcOffset=-3)](https://github.com/FelipeTavares7)
+## Github Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipeTavares7&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## Contatos
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipetavares.contato@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipetavares7)
