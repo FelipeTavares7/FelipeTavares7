@@ -6,5 +6,8 @@ Bem-vindo ao meu perfil do GitHub! Estou fazendo a transição de Manutenção I
 ## Github Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipeTavares7&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+## Troféus
+![](https://github-profile-trophy.vercel.app/?username=FelipeTavares7&theme=onedark)
+
 ## Contatos
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipetavares.contato@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipetavares7)
