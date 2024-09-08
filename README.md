@@ -1,5 +1,5 @@
 ## Felipe Tavares 
-Bem-vindo ao meu perfil do GitHub! Estou fazendo a transição de Manutenção Industrial para Gestão de Dados, transformando dados complexos em insights estratégicos. Explore meu portfólio de projetos para ver como utilizo dados para impulsionar melhorias e resolver problemas.
+Bem-vindo ao meu perfil do GitHub! Estou fazendo a transição de Manutenção Industrial para Engenharia de Dados. Explore meu portfólio de projetos para ver como utilizo dados para impulsionar melhorias e resolver problemas.
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeTavares7&theme=dark)](https://github.com/FelipeTavares7)
 
