@@ -1,5 +1,15 @@
 ## Felipe Tavares 
-Bem-vindo ao meu perfil do GitHub! Estou fazendo a transição de Manutenção Industrial para Engenharia de Dados. Explore meu portfólio de projetos para ver como utilizo dados para impulsionar melhorias e resolver problemas.
+Com mais de 10 anos de experiência atuando na análise de históricos de dados e gráficos de sistemas supervisórios (como iFix), no desenvolvimento de estratégias de otimização para a identificação de anomalias e previsão de falhas, propondo melhorias operacionais, além do desenvolvimento de algoritmos para CLPs e da programação de interfaces homem máquina (IHM).
+
+Essa experiência analítica e técnica impulsionou meu trabalho em projetos de Engenharia de Dados, aplicando a mesma visão estratégica à modelagem, processamento e ingestão de dados.
+
+Atuei em projetos de implementação de pipelines de dados, onde fui responsável pela coleta, transformação e disponibilização de dados para consumidores internos, utilizando ferramentas como SQL e Python. Além disso, estou desenvolvendo projetos focados em análises preditivas e ETL, aplicando tecnologias como Databricks e Azure para otimizar a ingestão e armazenamento de grandes volumes de dados.
+
+Ferramentas:
+Python, SQL, Docker, Airflow, Kafka, Spark, DBT, Databricks, Azure.
+
+Certificações:
+DP-900: Microsoft Azure Data Fundamentals (Previsão de conclusão: Novembro/2024)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeTavares7&theme=dark)](https://github.com/FelipeTavares7)
 
